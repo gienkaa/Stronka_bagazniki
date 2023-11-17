@@ -1,0 +1,134 @@
+@media (min-width: 768px) and (max-width: 1200px) and (min-height: 400px) and (max-height: 1300px) {
+  #first_page {
+    max-width: 768px;
+    width: 100%;
+    max-height: 980px;
+    height: 800px;
+    background-color: white;
+    z-index: 20;
+  }
+
+  /* MENU TOP */
+
+  .menu_top {
+    max-width: 1200px;
+    width: 1000px;
+    font-size: 10px;
+  }
+
+  .mtp1 {
+    position: relative;
+    top: -10px;
+    left: 5px;
+    font-size: 10px;
+  }
+
+  .mtp2 {
+    position: relative;
+    top: -40px;
+    left: 250px;
+    color: white;
+    font-size: 10px;
+  }
+
+  .mtp3 {
+    position: relative;
+    top: -70px;
+    left: 350px;
+    color: white;
+    font-size: 10px;
+  }
+
+  .mtp4 {
+    position: relative;
+    top: -95px;
+    left: 520px;
+    color: white;
+    font-size: 10px;
+  }
+
+  .mtp5 {
+    position: relative;
+    top: -140px;
+    left: 850px;
+  }
+
+  /* SLIDER FIRST PAGE */
+
+  .slider1_main {
+    max-width: 900px;
+    left: 150px;
+  }
+
+  .swiper-pagination-bullet {
+    left: -10px;
+
+    opacity: var(--swiper-panington-bullet-inactive-opacity, 1);
+    background: var(--swiper-panington-bullet-inactive-color, grey);
+  }
+
+  .swiper-pagination-bullet-active {
+    background-color: #033f5b;
+  }
+
+  .title_main {
+    left: 100px;
+  }
+
+  /* SECOND PAGE */
+
+  #second_page {
+    max-width: 1000px;
+    width: 100%;
+    background-size: cover;
+  }
+
+  .third_p_header {
+    max-width: 1000px;
+    margin-left: 100px;
+    display: flex;
+    flex-direction: row;
+  }
+
+  .hr_third {
+    width: 700px;
+    left: 20px;
+  }
+
+  .third_paragraph {
+    max-width: 1000px;
+    width: 800px;
+    left: 20px;
+    top: 70px;
+  }
+
+  .circles {
+    top: 20px;
+    left: 170px;
+  }
+
+  #c_page {
+    max-width: 1000px;
+    width: 100%;
+  }
+
+  #s_page {
+    max-width: 1000px;
+    width: 100%;
+    max-height: 980px;
+    height: 900px;
+    background-size: cover;
+  }
+
+  .info {
+    right: 10px;
+  }
+
+  #f_page {
+    max-width: 1000px;
+  }
+
+  #f_page h4 {
+    left: 200px;
+  }
+}

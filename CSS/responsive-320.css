@@ -1,0 +1,238 @@
+@media (min-width: 320px) and (max-width: 760px) and (min-height: 400px) and (max-height: 1300px) {
+  #first_page {
+    max-width: 320px;
+    width: 100%;
+    max-height: 980px;
+    height: 800px;
+    background-color: white;
+    z-index: 20;
+  }
+
+  /* MENU TOP */
+
+  .menu_top {
+    max-width: 320px;
+    width: 320px;
+    font-size: 10px;
+  }
+
+  .mtp1 {
+    position: relative;
+    top: -10px;
+    left: 5px;
+    font-size: 10px;
+  }
+
+  .mtp2 {
+    position: relative;
+    top: -40px;
+    left: 250px;
+    color: white;
+    font-size: 10px;
+  }
+
+  .mtp3 {
+    position: relative;
+    top: -70px;
+    left: 350px;
+    color: white;
+    font-size: 10px;
+  }
+
+  .mtp4 {
+    position: relative;
+    top: -95px;
+    left: 520px;
+    color: white;
+    font-size: 10px;
+  }
+
+  .mtp5 {
+    position: relative;
+    top: -140px;
+    left: 850px;
+  }
+
+  /* SLIDER FIRST PAGE */
+
+  .slider1_main {
+    max-width: 900px;
+    left: 150px;
+  }
+
+  .swiper-pagination-bullet {
+    left: -10px;
+
+    opacity: var(--swiper-panington-bullet-inactive-opacity, 1);
+    background: var(--swiper-panington-bullet-inactive-color, grey);
+  }
+
+  .swiper-pagination-bullet-active {
+    background-color: #033f5b;
+  }
+
+  .title_main {
+    left: 100px;
+    font-size: 2rem;
+  }
+
+  /* SECOND PAGE */
+
+  #second_page {
+    max-width: 1000px;
+    width: 100%;
+    background-size: cover;
+  }
+
+  .third_p_header {
+    margin-left: 10px;
+    font-size: 0.5rem;
+  }
+
+  .hr_third {
+    width: 400px;
+    left: 20px;
+  }
+
+  .third_paragraph {
+    max-width: 200px;
+    font-size: 1rem;
+    width: 200px;
+    left: 20px;
+    top: 70px;
+  }
+  .paragraph1 {
+    width: 300px;
+    height: 200px;
+
+    font-size: 15px;
+  }
+
+  .circles {
+    width: 320px;
+    max-height: 400px;
+    height: 300px;
+
+    top: -200px;
+    left: 20px;
+  }
+  .round1,
+  .round2,
+  .round3,
+  .round4,
+  .round5,
+  .round6,
+  .round7,
+  .round8,
+  .round9,
+  .round10 {
+    border: 0;
+
+    background-color: white;
+    position: relative;
+    width: 0px;
+    height: 0px;
+
+    box-shadow: 5px 5px 0 0;
+    z-index: 1;
+  }
+
+  .round1 h3,
+  .round2 h3,
+  .round3 h3,
+  .round4 h3,
+  .round5 h3,
+  .round6 h3,
+  .round7 h3,
+  .round8 h3,
+  .round9 h3,
+  .round10 h3 {
+    font-size: 20px;
+    color: black;
+  }
+
+  .round1 h3 {
+    top: 120px;
+    left: 150px;
+    z-index: 5;
+    width: 150px;
+  }
+  .round2 h3 {
+    width: 150px;
+    top: 150px;
+    left: 150px;
+
+    z-index: 5;
+  }
+  .round3 h3 {
+    top: 270px;
+    left: -20px;
+    width: 150px;
+  }
+  .round4 h3 {
+    width: 190px;
+    top: 120px;
+    left: 150px;
+  }
+  .round5 h3 {
+    top: 220px;
+    left: 80px;
+    width: 250px;
+  }
+  .round6 h3 {
+    width: 250px;
+    top: 280px;
+    left: -80px;
+  }
+
+  #c_page {
+    max-width: 1000px;
+    width: 100%;
+  }
+
+  #s_page {
+    max-width: 1000px;
+    width: 100%;
+    max-height: 980px;
+    height: 900px;
+    background-size: cover;
+  }
+
+  .card-carousel {
+    --card-width: 80%;
+    --card-max-width: 320px;
+    --card-height: 500px;
+    --carousel-min-width: 320px;
+  }
+  .container {
+    left: -90px;
+  }
+
+  .info {
+    width: 320px;
+    height: 500px;
+    background-color: #031f2e;
+    float: right;
+    position: relative;
+    right: 90px;
+    top: 200px;
+  }
+
+  .inp {
+    background-color: white;
+    width: 300px;
+    height: 250px;
+    position: relative;
+    top: 70px;
+    left: 10px;
+  }
+
+  #f_page {
+    max-width: 1000px;
+  }
+
+  #f_page h4 {
+    left: 50px;
+    font-size: 10px;
+  }
+}

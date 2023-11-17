@@ -1,0 +1,272 @@
+.item {
+  background-color: white;
+  width: 250px;
+  height: 400px;
+  text-align: left;
+  padding-top: 90px;
+
+  font-size: 12px;
+}
+
+.owl-container {
+  position: relative;
+  max-width: 1000px;
+  width: 930px;
+  max-height: 500px;
+  height: 300px;
+  top: 70px;
+  left: 500px;
+}
+
+.carousel_img_1 {
+  position: relative;
+  width: 185px;
+  height: 185px;
+  border-radius: 100%;
+  background-image: url("../obrazy/foto_1_slider_page_5.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  left: 33px;
+  top: 10px;
+  
+}
+.carousel_img_2 {
+  position: relative;
+  width: 185px;
+  height: 185px;
+  border-radius: 100%;
+  background-image: url("../obrazy/foto_2_slider_page_5.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  left: 14px;
+  top: 10px;
+}
+.carousel_img_3 {
+  position: relative;
+  width: 185px;
+  height: 185px;
+  border-radius: 100%;
+  background-image: url("../obrazy/foto_3_slider_page_5.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  left: -6px;
+  top: 9px;
+}
+.carousel_img_4 {
+  position: relative;
+  width: 185px;
+  height: 185px;
+  border-radius: 100%;
+  background-image: url("../obrazy/foto_4_slider_page_5.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+ top: 9px;
+  left: -27px;
+ 
+}
+.carousel_img_5 {
+  position: relative;
+  width: 185px;
+  height: 185px;
+  border-radius: 100%;
+  background-image: url("../obrazy/hamburg-6849995_640.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 10px;
+  left: -35px;
+}
+
+.owl-carousel img {
+  width: 45px;
+}
+
+.owl-carousel .owl-nav {
+  position: absolute;
+  max-height: 100px;
+  height: 20px;
+  top: 52%;
+  max-width: 930px;
+  width: 100%;
+}
+
+.owl-carousel .owl-nav .owl-prev {
+  position: absolute;
+  top: -2px;
+  left: -60px;
+}
+
+.owl-carousel .owl-nav .owl-next {
+  position: absolute;
+  top: -4px;
+  right: -32px;
+}
+.lorem_head {
+  position: relative;
+  font-size: 14px;
+  top: 7px;
+  left: -5px;
+
+}
+
+.carousel_txt {
+  position: relative;
+  left: 35px;
+  top: 25px;
+  line-height: 13px;
+  color: #033f5b;
+}
+.more a {
+  text-decoration: none;
+  color: #033f5b;
+}
+.more {
+ letter-spacing: 1px;
+ position: relative;
+ top: 20px;
+ left: 30px;
+}
+
+.lorem_head2, .lorem_head3, .lorem_head4  {
+  position: relative;
+  font-size: 14px;
+  top: 7px;
+  left: -3px;
+}
+
+.carousel_txt2 {
+  position: relative;
+  left: 15px;
+  top: 25px;
+  line-height: 13px;
+  color: #033f5b;
+}
+.more2 a {
+  text-decoration: none;
+  color: #033f5b;
+}
+.more2 {
+  letter-spacing: 1px;
+  position: relative;
+  top: 20px;
+left: 12px;
+  
+}
+
+.carousel_txt3 {
+  position: relative;
+  right: 5px;
+  top: 25px;
+  line-height: 13px;
+  color: #033f5b;
+}
+.more3 a {
+  text-decoration: none;
+  color: #033f5b;
+}
+.more3 {
+  letter-spacing: 1px;
+  position: relative;
+  top: 20px;
+left: -7px;
+}
+
+
+.carousel_txt4 {
+  position: relative;
+  right: 28px;
+  top: 25px;
+  line-height: 13px;
+  color: #033f5b;
+}
+.more4 a {
+  text-decoration: none;
+  color: #033f5b;
+}
+.more4 {
+ position: relative;
+top: 20px;
+left: -30px;
+
+ letter-spacing: 1px;
+
+}
+
+.hr_sw_1, .hr_sw_2, .hr_sw_3, .hr_sw_4
+{
+  position: relative;
+width: 50px;
+border-style: dotted;
+color: #033f5b;
+
+}
+.hr_sw_1
+{
+top: 15px;
+left: -70px;
+}
+ .hr_sw_2
+ {
+  top: 15px;
+  left: -90px;
+ }
+  .hr_sw_3
+  {
+    top: 15px;
+    left: -110px;
+  }
+   .hr_sw_4
+   {
+    top: 15px;
+    left: -130px;
+   }
+
+   .p_d_1, .p_d_2, .p_d_3, .p_d_4
+   {
+position: relative;
+top: 10px;
+
+   }
+
+   
+   .p_d_1
+   {
+left: -5px;
+   }
+    .p_d_2
+    {
+left: -3px;
+    }
+     .p_d_3
+     {
+      left: -3px;
+     }
+      .p_d_4
+      {
+        left: -2px;
+      }
+ 
+      .p_l_1_a, .p_l_2_a, .p_l_3_a, .p_l_4_a
+      {
+position: relative;
+font-size: 13px;
+top: 2px;
+word-spacing: 1px;
+left: -3px;
+
+      }
+      .p_l_1_b, .p_l_2_b, .p_l_3_b, .p_l_4_b
+      {
+        position: relative;
+        font-size: 13px;
+        top: -7px;
+        left: -3px;
+        word-spacing: 1px;
+      }
+    
+      .p_l_1_c, .p_l_2_c, .p_l_3_c, .p_l_4_c
+      {
+        position: relative;
+        font-size: 13px;
+        top: -16px;
+        left: -3px;
+      }
